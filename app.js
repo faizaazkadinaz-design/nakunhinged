@@ -19,29 +19,29 @@ const CONFIG = {
 
   // Face photos — add 2-3 (or more!)
   faces: [
-    { src: "assets/images/face1.png", label: "Classic" },
-    { src: "assets/images/face2.png", label: "Silly" },
-    { src: "assets/images/face3.png", label: "Iconic" },
+    { src: "assets/face1.png", label: "Classic" },
+    { src: "assets/face2.png", label: "Silly" },
+    { src: "assets/face3.png", label: "Iconic" },
   ],
 
   // Wall of Fame awards — one per face photo
   awards: [
     {
-      face: "assets/images/face1.png",
+      face: "assets/face1.png",
       title: "world's weirdest human",
       reason: "for consistently being weird without even trying",
       ribbon: "Certified",
       trophy: "🏆",
     },
     {
-      face: "assets/images/face2.png",
+      face: "assets/face2.png",
       title: "ceo of unwanted behavior",
       reason: "you are actually tweaking. like for real seek help immediately",
       ribbon: "certified menace to society",
       trophy: "👹",
     },
     {
-      face: "assets/images/face3.png",
+      face: "assets/face3.png",
       title: "professional weirdo enthusiast",
       reason: "if being a freak was a job, you'd be the richest person alive. it's actually impressive.",
       ribbon: "unmatched freak energy",
